@@ -60,7 +60,7 @@ body {
 
 .purpose_block1{
 	padding:3%;
-	background-color: #D1B8FE;
+	background-color: #BBFFF1;
 }
 
 .bg-black.text-center.py-5{
@@ -263,7 +263,7 @@ blockquote:before {content:'“'; position:absolute; left:15px; top:13px; font-s
 }
 .btn:focus, .btn:hover {color:#333; border-color:#333;}
 
-.btn-active {background-image: linear-gradient(90deg, #FF24A6 26%, #6412FA 100%); color:#fff; border-radius: 40px;}
+.btn-active {background-image: linear-gradient(90deg, #884ED9 26%, #1C0A94 100%); color:#fff; border-radius: 40px;}
 /*.purpose_block .container .row .btn-active {background-color:#00baa7; color:#62186A; border-color:#00baa7; border-radius: 10px;}*/
 .purpose_block .container1 .row .btn-active {background-color:#fb133a; color:white; border-color:#fb133a; border-radius: 10px;}
 /*.purpose_block .container #motivos .btn-active {background-color:#ff8701; color:#62186A; border-color:#ff8701; border-radius: 10px;} */
@@ -453,7 +453,7 @@ header {
 	right:0;
 	height:80px;
 	width:100%;
-	background-color:#D1B8FE;
+	background-color:#BBFFF1;
 	box-shadow:0 2px 3px rgba(0,0,0,0.1);
 }
 
@@ -1106,8 +1106,8 @@ div.panel.show {
 }
 
 .hoverbotonoquevaiaprender1 {
-	background:#6412FA;
-	border-color: #6412FA;
+	background:#884ED9;
+	border-color: #884ED9;
     border-width: 6px;
 	color:white;
 }
