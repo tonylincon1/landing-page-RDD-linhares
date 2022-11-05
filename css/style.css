@@ -885,7 +885,7 @@ ul.ul_metodologia img {
 .purpose_block {padding:5% 0 5%; text-align: center;}
 
 .purpose_block p {
-	margin-bottom: 30px;
+	margin-bottom: 0px;
     font-weight: 500;
     line-height: 40px;
     font-size: 30px;
@@ -2491,10 +2491,6 @@ input[type="color"]:focus {
 		margin-left: 0%;
 		padding-left: 5%;
 	}
-
-	.edital_ul_texto p {
-		padding-bottom: 5%;
-	}
 	
 }
 
@@ -2617,10 +2613,6 @@ input[type="color"]:focus {
 
 	.purpose_block .btn-active span {
 		font-size: 16px;
-	}
-
-	.edital_ul_texto p {
-		padding-bottom: 8%;
 	}
 
 	.pull-left {width: 100%;}
@@ -3015,7 +3007,7 @@ input[type="color"]:focus {
 	}
 
 	.edital_ul_texto p {
-		padding-top: 10%;
+		padding-top: 0%;
 		padding-bottom: 0%;
 	}
 	.edital_ul {
@@ -3039,7 +3031,7 @@ input[type="color"]:focus {
 	.purpose_block p {
 		padding-left: 2%;
 		padding-right: 2%;
-		margin-bottom: 5%;
+		margin-bottom: 2%;
 	}
 
 	.atraves_da_img_2 {
