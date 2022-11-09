@@ -574,7 +574,8 @@ header {
 	justify-content: center;
 	position: relative;
 	padding: 13px 20px;
-	color:#62186A;
+	padding-top: 2%;
+	color:#1C0A94;
   }
   
   .time {
@@ -585,8 +586,7 @@ header {
   
   .time h2 {
 	margin: 0 0 5px;
-	font-size: 33px;
-	color:#62186A;
+	color:#1C0A94;
   }
   
   @media (max-width: 500px) {
