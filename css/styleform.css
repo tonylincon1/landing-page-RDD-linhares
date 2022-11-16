@@ -28,6 +28,12 @@ form#Página1 {margin: 4%; text-align: justify;}
     padding-left: 2%;
 }
 
+.video {
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+
 .texto {
     width: 50%;
 }
